@@ -1,0 +1,5 @@
+[user]
+	name = AnDem
+	email = andem@tuta.io
+[core]
+	editor = nvim
